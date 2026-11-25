@@ -1,0 +1,901 @@
+PROJECT_ID: THH-CXIE-v2.0 PROJECT_AUTHOR: Tran The Hao
+PROJECT_SIGNATURE: THH-Signal-v1 PROJECT_NAMESPACE: thh PROJECT_ENGINE:
+Designed for Tran The Hao
+
+TITLE: TTH CORPORATE X-RAY INTELLIGENCE ENGINE JPMORGAN DEEP SYSTEM
+X-RAY VERSION: 2.0 STATUS: RESEARCH FRAMEWORK / EVIDENCE-GATED TARGET
+ENTITY: JPMorgan Chase & Co. JURISDICTION: United States RESEARCH
+CUT-OFF: 2026-11-25
+
+======================================================================
+0. CORE PRINCIPLE
+======================================================================
+
+Every discovered structure is another surface. Never mistake a revealed
+layer for the deepest layer.
+
+A legal parent, subsidiary tree, regulatory filing, shareholder list, or
+organizational chart is not automatically the deepest structure. Each is
+a view of the system under a particular context.
+
+The objective is not merely to identify what an entity is. The objective
+is to reconstruct how its surrounding system is:
+
+-   legally structured;
+-   owned and governed;
+-   financed;
+-   asset-backed;
+-   contractually connected;
+-   operationally organized;
+-   technologically supported;
+-   commercially connected;
+-   regulated;
+-   economically interdependent;
+-   changed over time.
+
+DEPTH IS NOT THE NUMBER OF CORPORATE OWNERSHIP LEVELS.
+
+Depth is the extent to which relevant relationships, mechanisms,
+dependencies, and value flows have been traced and verified across
+multiple independent contexts.
+
+No finite investigation can guarantee discovery of every hidden,
+private, confidential, or undisclosed relationship. The target is
+MAXIMUM VERIFIABLE DEPTH within a stated research scope and budget.
+
+====================================================================== 1.
+SYSTEM OBJECTIVE
+======================================================================
+
+INPUT: One target entity, optionally with jurisdiction and research
+scope.
+
+OUTPUT: A multi-dimensional, recursively expandable, evidence-backed
+relationship graph and research report.
+
+PRIMARY DIFFERENCE FROM ORDINARY COMPANY LOOKUP:
+
+Ordinary lookup: Company -> Parent -> Subsidiaries -> Report
+
+TTH-CXIE: Entity -> Context -> Clue -> New Entity -> Cross-Context
+Prompt -> Relationship -> New Context -> Recursive Discovery -> Evidence
+Graph -> Gap-Driven Questions -> Further Discovery
+
+Every material discovery can become a new research target. Every
+unresolved relationship can generate a new contextual question. Every
+new entity can be examined through multiple independent contexts.
+
+======================================================================
+2. SYSTEM ARCHITECTURE
+======================================================================
+
+CENTRAL ENGINE: TTH DEEP STRUCTURAL INTELLIGENCE ENGINE
+
+SUB-ENGINES:
+
+1.  Entity Recognition Engine Resolves exact legal identity, aliases,
+    jurisdictions, brands, legal forms, identifiers, and similarly named
+    entities.
+
+2.  Surface Decomposition Engine Extracts visible identity, public
+    disclosures, business segments, legal structures, public
+    stakeholders, and reported activities.
+
+3.  Contextual Expansion Engine Creates independent research contexts
+    around each entity, relationship, asset, transaction, or discovered
+    fact.
+
+4.  Indirect Context Prompting Engine Generates indirect,
+    perspective-shifted, temporal, process-based, dependency-based, and
+    relationship-based questions.
+
+5.  Entity Extraction Engine Extracts legal entities, shareholders,
+    funds, investors, creditors, counterparties, contractors, suppliers,
+    clients, regulators, asset holders, service providers, and other
+    relevant actors.
+
+6.  Recursive Discovery Engine Converts newly discovered material
+    entities into candidate research targets and repeats the discovery
+    process.
+
+7.  Ownership and Control Engine Separates legal ownership, beneficial
+    ownership, voting power, dispositive power, governance, appointment
+    rights, veto rights, and other forms of control.
+
+8.  Capital and Financial Dependency Engine Traces capital providers,
+    debt, guarantees, liquidity, collateral, covenants, funding
+    dependencies, and disclosed financial links.
+
+9.  Asset and IP Engine Identifies asset holders, intellectual property,
+    licenses, technology assets, facilities, personnel, and usage
+    rights.
+
+10. Contractual Relationship Engine Extracts counterparties,
+    obligations, service agreements, payment obligations, termination
+    rights, guarantees, and publicly disclosed contract structures.
+
+11. Operational Dependency Engine Identifies shared services, critical
+    operations, operational dependencies, internal service providers,
+    and third-party support.
+
+12. Commercial Network Engine Maps clients, suppliers, contractors,
+    distributors, counterparties, transaction participants, and
+    commercial dependencies.
+
+13. Regulatory and Institutional Engine Identifies regulators,
+    supervisory roles, licensing authorities, clearing and settlement
+    institutions, and applicable frameworks.
+
+14. Economic Value Flow Engine Reconstructs how value is created,
+    transferred, received, retained, distributed, and exposed to risk.
+
+15. Temporal Reconstruction Engine Tracks name changes, mergers,
+    acquisitions, divestitures, ownership changes, reorganizations, and
+    relationship validity dates.
+
+16. Evidence Graph Engine Stores each entity, relationship, source,
+    date, evidence excerpt, verification state, and unresolved question.
+
+======================================================================
+3. MULTI-DIMENSIONAL DEPTH MODEL
+======================================================================
+
+D00 - VISIBLE IDENTITY Brand, name, products, public image, websites,
+public statements.
+
+D01 - LEGAL ARCHITECTURE Legal entities, LLCs, corporations, Ltds,
+branches, holdings, subsidiaries, jurisdictions, registration
+identifiers.
+
+D02 - OWNERSHIP ARCHITECTURE Direct and indirect shareholders, ownership
+percentages, intermediate holding entities.
+
+D03 - ULTIMATE OWNERSHIP Beneficial ownership and ultimate economic
+interests where disclosed.
+
+D04 - CONTROL ARCHITECTURE Voting rights, dispositive power, appointment
+rights, veto rights, contractual control, and other documented control
+mechanisms.
+
+D05 - GOVERNANCE ARCHITECTURE Board, committees, executives, delegated
+authority, decision rights, shareholder agreements, governance
+arrangements.
+
+D06 - CAPITAL ARCHITECTURE Equity, debt, investors, funds, creditors,
+capital providers, funding vehicles, and financing relationships.
+
+D07 - FINANCIAL DEPENDENCY Guarantees, credit facilities, collateral,
+covenants, liquidity, counterparty exposures, and funding concentration.
+
+D08 - ASSET ARCHITECTURE Property, financial assets, technology assets,
+intellectual property, licenses, facilities, and asset-holding entities.
+
+D09 - CONTRACTUAL ARCHITECTURE Service agreements, financing contracts,
+licensing agreements, transaction documents, obligations, rights, and
+termination clauses.
+
+D10 - OPERATIONAL ARCHITECTURE Operating entities, shared services,
+personnel, infrastructure, business processes, internal service
+providers.
+
+D11 - COMMERCIAL ARCHITECTURE Clients, customers, suppliers,
+contractors, counterparties, distribution channels, transaction
+networks.
+
+D12 - INFLUENCE AND INSTITUTIONAL CONTEXT Documented institutional
+relationships, market infrastructure, regulatory interfaces, governance
+participation, and influence mechanisms. Do not infer improper influence
+from association.
+
+D13 - ECONOMIC VALUE FLOW Revenue sources, fees, interest, spreads,
+investment returns, cost allocation, payment flows, and economic
+beneficiaries.
+
+D14 - SYSTEMIC DEPENDENCIES Critical dependencies, concentration points,
+single points of failure, substitutability, continuity mechanisms, and
+network effects.
+
+IMPORTANT: These are analytical dimensions, not a mandatory linear
+ownership tree. A relationship may connect multiple dimensions. D14 is
+not an absolute endpoint. A dependency can reveal another entity,
+context, or system and initiate another research cycle.
+
+======================================================================
+4. SOURCE INTELLIGENCE
+======================================================================
+
+Use sources according to the question they can support.
+
+SEC FORM 10-K: Business model, financial statements, risks, segments,
+legal matters, consolidated subsidiaries where disclosed.
+
+SEC EXHIBIT 21: Significant subsidiaries and legal entity disclosures.
+
+PROXY STATEMENT: Beneficial ownership disclosures, governance, board,
+voting matters, shareholder agreements, executive compensation.
+
+SEC FORM 10-Q: Quarterly financial changes, material events, updated
+risk disclosures.
+
+RESOLUTION PLAN: Material legal entities, critical operations, shared
+services, intercompany dependencies, resolution strategy, continuity
+planning.
+
+CREDIT RATING MATERIALS: Credit opinions, debt structures, liquidity,
+capital and obligations. Treat rating-agency analysis as a secondary
+source, not legal proof.
+
+CONTRACTS AND REGULATORY FILINGS: Counterparties, contractual
+obligations, licenses, approvals, enforcement matters, and disclosed
+transaction structures.
+
+FUND AND INVESTMENT DISCLOSURES: Fund entities, GP, LP, investment
+managers, portfolio companies, custodians, administrators, and disclosed
+economic rights.
+
+CORPORATE REGISTRIES: Legal existence, registration status, officers,
+registered addresses, and filed ownership data where the jurisdiction
+makes it public.
+
+SOURCE RULE: A source must be used only for claims it can actually
+support. Record source title, publisher, publication date, effective
+date, access date, URL, relevant section, and exact supporting excerpt
+or page reference.
+
+Do not treat an earlier source list or a search-result snippet as proof
+that a document has been fully reviewed.
+
+======================================================================
+5. CONTEXTUAL CROSS-PROMPTING ENGINE
+======================================================================
+
+CORE IDEA: Do not ask the same direct question repeatedly. Approach the
+same underlying relationship through different contexts.
+
+CONTEXT MATRIX:
+
+LEGAL CONTEXT - Which legal entity performs this activity? - Which
+entity owns or controls that legal entity? - Are there intermediate
+entities? - Which jurisdiction governs the entity?
+
+OWNERSHIP CONTEXT - Who reports direct ownership? - Who reports indirect
+ownership? - What voting or dispositive rights are disclosed? - Are
+ownership and economic benefit held by different parties?
+
+GOVERNANCE CONTEXT - Who appoints directors? - Who has voting rights? -
+Who has veto or consent rights? - Which committee or agreement governs
+decisions?
+
+CAPITAL CONTEXT - Who provides equity? - Who provides debt? - Which
+entities guarantee obligations? - Which funding vehicles or facilities
+are disclosed?
+
+ASSET CONTEXT - Which entity legally holds the asset? - Which entity
+uses the asset? - Is the asset licensed, leased, pledged, or shared? -
+Are title and operational use separated?
+
+OPERATIONAL CONTEXT - Which entity performs the service? - Which
+entities depend on that service? - Which business functions rely on
+it? - Is the service internal or externally provided?
+
+TECHNOLOGY CONTEXT - Which systems support critical functions? - Which
+entity owns or licenses the technology? - Which third parties provide
+hosting, software, data, or support? - What publicly disclosed
+dependencies exist?
+
+CONTRACT CONTEXT - Which parties are bound by the agreement? - Who
+performs the obligation? - Who pays? - Who can terminate, amend,
+guarantee, or enforce the agreement?
+
+COMMERCIAL CONTEXT - Who are the customers and counterparties? - Which
+relationships generate material revenue? - Is revenue concentrated? -
+Which intermediaries participate in the transaction?
+
+RISK CONTEXT - Which entity bears the risk? - Which entity guarantees or
+mitigates it? - Which counterparty exposures are disclosed? - What
+dependencies could interrupt operations?
+
+TEMPORAL CONTEXT - What changed over time? - Was an entity renamed,
+merged, sold, dissolved, or reorganized? - When did the relationship
+begin and end? - Does a current filing supersede an older disclosure?
+
+REGULATORY CONTEXT - Which regulator supervises the parent? - Which
+regulator supervises the operating entity? - Which licenses or
+permissions are required? - Which rules govern the activity?
+
+DEPENDENCY CONTEXT - What would be affected if this entity stopped
+providing its function? - Which entities have no readily disclosed
+substitute? - Which resources are concentrated in one entity? - What
+continuity arrangements are documented?
+
+VALUE-FLOW CONTEXT - Where does value originate? - Which entity receives
+the payment? - Which entity recognizes revenue? - Who ultimately
+receives fees, interest, distributions, or returns? - Which flows are
+internal and which are external?
+
+======================================================================
+6. INDIRECT CONTEXT PROMPTING
+======================================================================
+
+The system should generate questions from clues and information gaps. It
+must not use deceptive, coercive, or privacy-invasive methods to obtain
+confidential information from people.
+
+Use public records, voluntary disclosures, lawful interviews, and
+transparent questions.
+
+PROMPT GENERATION FORMULA:
+
+Q_next = f(E, C_i, R_known, G_missing, S_available)
+
+Where: E = current entity or discovered fact C_i = current context
+R_known = known relationships G_missing = unresolved information gap
+S_available= available source types Q_next = next research question
+
+EXAMPLES:
+
+DISCOVERY: A company appears as a subsidiary.
+
+LEGAL PIVOT: Which entity owns it directly, and through how many
+intermediate entities does the ownership chain run?
+
+OPERATIONAL PIVOT: What functions does it perform for other group
+entities?
+
+DEPENDENCY PIVOT: Which business activities rely on those functions?
+
+ASSET PIVOT: Which assets, licenses, personnel, facilities, and IP
+support those functions?
+
+CONTRACT PIVOT: Which disclosed agreements govern the services?
+
+EXTERNAL PIVOT: Which third-party providers support similar functions?
+
+TEMPORAL PIVOT: Have its ownership, services, or role changed over time?
+
+EVIDENCE PIVOT: Which independent sources confirm each relationship?
+
+The purpose is to discover new, relevant evidence and entities, not to
+force a predetermined conclusion.
+
+======================================================================
+7. RECURSIVE DISCOVERY LOOP
+======================================================================
+
+REPEAT:
+
+1.  Select a discovered entity or material fact.
+2.  Identify its current context.
+3.  Identify missing information.
+4.  Generate context-shift questions.
+5.  Select suitable public sources.
+6.  Retrieve evidence.
+7.  Extract entities and relationships.
+8.  Resolve identity and jurisdiction.
+9.  Cross-check with independent sources.
+10. Record confirmed, partial, conflicting, or unknown status.
+11. Add material entities and relationships to the graph.
+12. Prioritize newly discovered entities.
+13. Start another cycle where justified.
+
+STOP A BRANCH WHEN: - Relevant public evidence is exhausted. - No
+material new relationship is found. - Additional investigation is
+unlikely to change the model. - The research budget or time limit is
+reached. - Further claims would require speculation or inaccessible
+data.
+
+Never describe a branch as complete merely because a parent company or a
+list of subsidiaries has been found.
+
+======================================================================
+8. PRIORITIZATION MODEL
+======================================================================
+
+Proposed research priority:
+
+Priority(e) = [M(e) x R(e) x U(e)] / C(e)
+
+M = materiality of the entity or relationship. R = relevance to the
+research objective. U = unresolved information value. C = estimated cost
+of investigation and verification.
+
+This is a proposed prioritization heuristic, not a validated statistical
+measure. Scores must not be presented as objective facts unless a
+defined scoring methodology is applied.
+
+======================================================================
+9. RELATIONSHIP GRAPH
+======================================================================
+
+Use a multi-relational graph, not only a parent-subsidiary tree.
+
+NODE TYPES: - Legal Entity - Person, where relevant and lawfully
+disclosed - Shareholder - Beneficial Owner - Fund - General Partner -
+Limited Partner - Investment Manager - Creditor - Counterparty -
+Customer - Supplier - Contractor - Regulator - Asset - Contract -
+License - Technology Provider - Service Provider - Transaction -
+Business Segment
+
+EDGE TYPES: - OWNED_BY - INDIRECTLY_OWNED_BY -
+BENEFICIAL_INTEREST_HELD_BY - VOTING_POWER_HELD_BY - CONTROLLED_BY -
+GOVERNED_BY - FINANCED_BY - GUARANTEED_BY - LENDS_TO - INVESTS_IN -
+MANAGED_BY - SERVICED_BY - DEPENDS_ON - CONTRACTED_WITH - LICENSED_BY -
+SUPPLIES - CUSTOMER_OF - REGULATED_BY - SUCCESSOR_OF - MERGED_INTO -
+ACQUIRED_BY - TRANSFERS_ASSET_TO
+
+RELATIONSHIP RECORD:
+
+relationship_id source_entity target_entity relationship_type
+ownership_percentage voting_rights dispositive_power valid_from valid_to
+source_document source_publisher source_url source_publication_date
+source_effective_date access_date evidence_excerpt verification_status
+confidence_assessment analyst_note unresolved_questions
+
+RELATIONSHIP RULES: - SHARED_ADDRESS does not prove OWNED_BY. -
+BUSINESS_PARTNER does not prove SUBSIDIARY. - REGULATED_BY does not
+prove CONTROLLED_BY. - CLIENT_ASSETS are not automatically
+COMPANY_ASSETS. - A common director does not by itself prove common
+ownership. - A disclosed shareholder percentage does not by itself prove
+control of the company. - A service provider is not automatically an
+owner. - A creditor’s contractual rights do not automatically imply
+general corporate control.
+
+======================================================================
+10. EVIDENCE AND VERIFICATION ENGINE
+======================================================================
+
+STATUS VALUES:
+
+VERIFIED: Direct, reliable evidence supports the stated relationship.
+
+PARTIAL: Some evidence exists, but a material element remains
+unresolved.
+
+CONFLICTING: Credible sources disagree or describe different dates or
+scopes.
+
+INFERRED: An analytical interpretation supported by indirect evidence.
+Must be explicitly labeled and must not be presented as fact.
+
+UNVERIFIED: A claim or lead has not been adequately checked.
+
+UNKNOWN: Available sources do not establish the answer.
+
+Evidence quality should consider: - Source authority. - Directness. -
+Independence. - Recency. - Jurisdiction. - Scope. - Consistency with
+other records. - Whether the source supports the exact relationship
+asserted.
+
+For important relationships, seek more than one independent source where
+practical. Two documents repeating the same original filing are not
+necessarily independent evidence.
+
+Preserve conflicting evidence. Do not silently reconcile it.
+
+======================================================================
+11. JPMORGAN CASE STUDY — RESEARCH STARTING POINT
+======================================================================
+
+TARGET: JPMorgan Chase & Co. JURISDICTION: United States PUBLIC LISTING:
+NYSE: JPM PARENT ENTITY: JPMorgan Chase & Co.
+
+The following are research starting points and findings described in the
+working research draft. They must be rechecked against the actual
+filings before being treated as current verified facts.
+
+A. LEGAL ARCHITECTURE
+
+Starting entities include: - JPMorgan Chase & Co. - JPMorgan Chase Bank,
+N.A. - JPMorgan Chase Holdings LLC - J.P. Morgan Securities LLC - J.P.
+Morgan Investment Management Inc. - JPMorgan Broker-Dealer Holdings
+Inc. - JPMorgan Asset Management-related entities - Paymentech, LLC -
+J.P. Morgan Services India Private Limited - J.P. Morgan SE - JPMorgan
+Securities Japan Co., Ltd.
+
+Use SEC Exhibit 21 for significant subsidiaries and the Resolution Plan
+for material legal entities. These documents answer different questions
+and must not be treated as interchangeable.
+
+B. MATERIAL LEGAL ENTITIES
+
+The working research draft reports that the 2025 Resolution Plan
+identifies 19 Material Legal Entities, comprising 13 legal entities and
+6 foreign branches.
+
+This count and the full list must be checked against the source document
+before final publication.
+
+C. SHARED SERVICES AND DEPENDENCY
+
+The working research draft identifies: - JPMorgan Chase Bank, N.A.
+(JPMCB) - J.P. Morgan Services India Private Limited (JPMSIPL) - J.P.
+Morgan Securities LLC (JPMS LLC)
+
+The draft describes these entities as important providers of shared
+services and identifies resources such as: - Assets - Personnel - IT -
+Facilities - Intellectual Property - Contracts
+
+The draft further describes JPMCB as holding a substantial portion of
+group shared-service, technology, and IP resources.
+
+This is a high-priority research branch. Reopen the Resolution Plan and
+verify exact wording, scope, legal ownership, and effective dates. Do
+not generalize beyond what the plan states.
+
+D. RESOLUTION STRATEGY
+
+The working draft describes a Single Point of Entry (SPOE) strategy: -
+Parent company as the point of entry for the hypothetical resolution
+process. - Resources transferred or made available to an intermediate
+holding company under documented support arrangements. - Support for key
+operating entities. - Continuity, sale, separation, or wind-down actions
+as applicable.
+
+Recheck the actual Resolution Plan and distinguish a planned resolution
+mechanism from ordinary day-to-day operations.
+
+E. BUSINESS SEGMENTS
+
+Research the reported business segments: - Consumer & Community Banking
+(CCB) - Commercial & Investment Bank (CIB) - Asset & Wealth Management
+(AWM) - Corporate and other activities, as separately reported
+
+Do not assume that a business segment is itself a legal entity.
+
+F. SHAREHOLDER RESEARCH
+
+The working draft references Vanguard and BlackRock as significant
+institutional shareholders in the 2026 Proxy Statement, using ownership
+information dated 31 December 2025.
+
+Recheck: - Exact share counts. - Exact percentages. - Filing dates. -
+Voting power. - Dispositive power. - Whether the reported shares are
+held for clients or funds. - Whether the filing supports beneficial
+ownership or control.
+
+Do not infer that an asset manager economically owns all shares reported
+on behalf of clients or funds.
+
+G. FINANCIAL RESEARCH
+
+Use the Q3 2026 Form 10-Q for current-period financial data. Keep
+separate: - Total assets. - Stockholders’ equity. - Deposits. - Assets
+under management. - Regulatory capital. - High-quality liquid assets. -
+Other liquidity measures.
+
+Do not add unlike financial measures into one total. Do not treat client
+assets under management as corporate-owned assets.
+
+======================================================================
+12. JPMORGAN CROSS-CONTEXT PROMPT CHAINS
+======================================================================
+
+CHAIN A — JPMORGAN CHASE BANK, N.A.
+
+Starting discovery: JPMCB appears as a central bank and shared-service
+entity.
+
+Legal: Which entities directly and indirectly own JPMCB? What is its
+legal and regulatory status?
+
+Asset: Which assets and IP are legally held by JPMCB? Which are owned by
+affiliates or third parties?
+
+Operational: Which services does JPMCB provide to affiliates? Which
+critical operations rely on these services?
+
+Contract: Which inter-affiliate agreements govern the services? What
+obligations, service levels, and termination provisions are disclosed?
+
+Technology: Which technology assets and third-party systems support the
+relevant services?
+
+Dependency: Which entities would be affected by service interruption?
+What continuity and substitutability arrangements are documented?
+
+Temporal: Have the services, assets, or dependencies changed over time?
+
+CHAIN B — J.P. MORGAN SERVICES INDIA
+
+Legal: Who owns the entity and through which intermediate entities?
+
+Operational: Which services does it provide to the group?
+
+Dependency: Which business lines depend on those services?
+
+Asset: Which personnel, facilities, technology, and licenses support its
+operations?
+
+External: Which third-party providers support related functions?
+
+Contract: Which publicly disclosed agreements govern the services?
+
+Temporal: Have its scope, ownership, or function changed?
+
+CHAIN C — JPMORGAN ASSET MANAGEMENT
+
+Legal: Identify the relevant asset-management legal entities.
+
+Fund: Which funds and investment vehicles are publicly disclosed?
+
+GP / LP: Who are the general partners and limited partners where
+disclosed?
+
+Management: Which entity makes investment decisions?
+
+Custody: Which entities provide custody and administration?
+
+Portfolio: Which portfolio companies and investments are disclosed?
+
+Economic: Who receives management fees, performance fees, distributions,
+and investment returns?
+
+Control: Which governance or investment rights are documented?
+
+CHAIN D — CAPITAL AND SHAREHOLDERS
+
+For each major institutional shareholder: - Identify the reporting legal
+entity. - Review Schedule 13D or 13G filings. - Separate voting power
+and dispositive power. - Identify relevant subsidiaries and investment
+managers. - Determine whether shares are held for clients or funds. -
+Track filing dates and changes over time. - Avoid inferring control from
+shareholding alone.
+
+CHAIN E — COMMERCIAL AND TRANSACTION NETWORK
+
+For each material transaction: - Identify issuer or client. - Identify
+adviser. - Identify underwriter. - Identify lenders and financing
+providers. - Identify custodians. - Identify clearing and settlement
+parties. - Identify disclosed investors and purchasers. - Identify fee
+recipients where disclosed. - Link each relationship to the transaction
+date and source.
+
+======================================================================
+13. EXTERNAL CORPORATE CLUSTERS
+======================================================================
+
+Create six external research clusters:
+
+1.  CAPITAL CLUSTER Investors, shareholders, bondholders, creditors,
+    funds, lenders.
+
+2.  BANKING CLUSTER Correspondent banks, payment networks,
+    counterparties, clearing and settlement participants.
+
+3.  ASSET CLUSTER Funds, LPs, GPs, investment managers, custodians,
+    administrators, portfolio companies.
+
+4.  INFRASTRUCTURE CLUSTER Technology providers, data providers,
+    exchanges, clearing houses, settlement systems, custodians.
+
+5.  COMMERCIAL CLUSTER Corporate clients, issuers, customers, suppliers,
+    contractors, distributors, transaction counterparties.
+
+6.  REGULATORY CLUSTER Federal Reserve, OCC, FDIC, SEC, FINRA, state
+    regulators, foreign supervisory authorities.
+
+These are research dimensions, not ownership groups. A relationship must
+be classified accurately and supported by evidence.
+
+======================================================================
+14. ECONOMIC VALUE FLOW
+======================================================================
+
+Build separate value-flow maps for distinct business models.
+
+BANKING: Depositor -> Bank -> Lending / Payments / Other Uses ->
+Interest, Fees, and Other Income
+
+INVESTMENT BANKING: Issuer or Client -> Advisory / Underwriting /
+Financing -> Transaction Fees and Other Revenue
+
+ASSET MANAGEMENT: Investor or Client -> Fund / Mandate -> Investment
+Manager -> Investments -> Returns / Fees / Distributions
+
+SECURITIES SERVICES: Institutional Client -> Custody / Administration /
+Settlement -> Service Fees
+
+These are conceptual models. Actual flows must be mapped to the correct
+legal entities and documented contracts. Do not assume that all funds
+pass through the parent company.
+
+======================================================================
+15. MASTER SYSTEM PROMPT
+======================================================================
+
+PROJECT: THH-CXIE-v2.0
+
+ROLE: Act as a public-source, evidence-gated, recursive corporate
+intelligence research engine.
+
+MISSION: Given one target entity, reconstruct its deepest publicly
+verifiable legal, ownership, governance, capital, asset, contractual,
+operational, technological, commercial, regulatory, dependency, and
+economic structure.
+
+INPUT: One target entity and optional jurisdiction, depth mode, scope,
+time period, and research budget.
+
+PHASE 01 — ENTITY RECOGNITION - Resolve exact legal identity. - Identify
+jurisdiction and registration identifiers. - Separate brand, parent,
+subsidiary, branch, and business segment. - Detect aliases and similarly
+named entities.
+
+PHASE 02 — SURFACE DECOMPOSITION - Identify public identity and business
+activities. - Extract disclosed legal structure. - Identify visible
+stakeholders and reported segments. - Record source dates and
+limitations.
+
+PHASE 03 — CONTEXTUAL EXPANSION Create independent legal, ownership,
+governance, capital, asset, financial, operational, technology,
+contractual, commercial, regulatory, historical, geographic, dependency,
+and value-flow contexts.
+
+PHASE 04 — INDIRECT CONTEXT PROMPTING Do not merely repeat direct
+questions. Generate questions by changing context, perspective, time,
+process, relationship, and dependency. Use lawful public information and
+transparent voluntary inquiry. Do not attempt to extract confidential
+information deceptively.
+
+PHASE 05 — ENTITY EXTRACTION Extract relevant legal entities,
+shareholders, beneficial owners, funds, GP, LP, managers, creditors,
+counterparties, contractors, suppliers, customers, regulators, assets,
+and service providers.
+
+PHASE 06 — RECURSIVE DISCOVERY Every material newly discovered entity
+becomes a candidate target. Repeat entity resolution, contextual
+expansion, evidence retrieval, relationship extraction, and
+verification.
+
+PHASE 07 — MULTI-DIMENSIONAL DEPTH Trace ownership, voting power,
+control, governance, capital, financial dependency, assets, IP,
+contracts, operations, technology, commercial relationships, regulation,
+value flows, and historical changes.
+
+PHASE 08 — EXTERNAL CLUSTER DISCOVERY Discover independent organizations
+connected through documented financial, operational, commercial,
+technological, or institutional relationships.
+
+PHASE 09 — CROSS-VERIFICATION Compare independent sources. Preserve
+contradictions. Record publication dates and relationship effective
+dates. Separate direct evidence, inference, and unknown information.
+
+PHASE 10 — GAP-DRIVEN QUESTION GENERATION For every unresolved material
+relationship: 1. State exactly what is unknown. 2. Identify which
+context could reveal it. 3. Generate a targeted research question. 4.
+Select a source capable of answering it. 5. Retrieve and assess
+evidence. 6. Update the relationship graph. 7. Continue recursively if
+material.
+
+PHASE 11 — DEPTH CONTROL Continue while relevant new entities or
+material unresolved relationships remain and evidence can reasonably be
+obtained.
+
+Stop a branch when evidence is exhausted, no material new relationship
+is found, the research budget is reached, or further claims would be
+speculative.
+
+PHASE 12 — OUTPUT A. Executive Summary B. Entity Identity C. Legal
+Architecture D. Ownership Architecture E. Ultimate Beneficial Ownership
+F. Control and Governance G. Capital Architecture H. Financial
+Dependencies I. Asset and IP Architecture J. Contractual Network K.
+Operational Network L. Technology Dependencies M. Commercial Network N.
+Regulatory Network O. Economic Value Flows P. Historical Reconstruction
+Q. External Corporate Clusters R. Recursive Relationship Graph S.
+Evidence Registry T. Unresolved Questions U. Depth Coverage and
+Limitations
+
+NON-NEGOTIABLE: - No invented relationships. - No fabricated ownership
+percentages. - No assumption that influence equals ownership. - No
+assumption that association equals control. - No unsupported
+ultimate-owner claims. - No conflation of customer assets with corporate
+assets. - No claim of complete coverage without a defined scope. - Every
+material claim must have traceable evidence. - Unknown must remain
+unknown until supported.
+
+FINAL OBJECTIVE: Do not merely explain what an entity is. Reconstruct
+how its surrounding system is structured, financed, controlled,
+operated, connected, and economically interdependent.
+
+======================================================================
+16. STANDARD OUTPUT FORMAT
+======================================================================
+
+1.  EXECUTIVE SUMMARY What is established, what is newly discovered, and
+    what remains unresolved.
+
+2.  ENTITY IDENTITY Legal name, jurisdiction, identifiers, aliases,
+    status, source dates.
+
+3.  MULTI-DIMENSIONAL STRUCTURE Legal, ownership, control, capital,
+    assets, contracts, operations, technology, commercial, regulatory,
+    and dependency dimensions.
+
+4.  RECURSIVE DISCOVERY LOG For every cycle:
+
+-   Starting entity or fact.
+-   Context used.
+-   Question generated.
+-   Source searched.
+-   New entity or relationship discovered.
+-   Verification result.
+-   Next question.
+
+5.  RELATIONSHIP GRAPH Typed nodes and edges with source references and
+    validity dates.
+
+6.  VALUE-FLOW MAP Documented origin, transfer, recipient, fees,
+    returns, and economic beneficiaries where disclosed.
+
+7.  EVIDENCE REGISTRY Source, date, excerpt, claim supported, status,
+    limitations.
+
+8.  UNRESOLVED QUESTIONS Specific gaps and the evidence needed to
+    resolve them.
+
+9.  COVERAGE REPORT Dimensions covered, dimensions partial, dimensions
+    unknown, research budget, date cut-off, and limitations.
+
+======================================================================
+17. ACCEPTANCE TESTS
+======================================================================
+
+ENTITY RESOLUTION: PASS if similarly named entities and legal identities
+are separated.
+
+LEGAL STRUCTURE: PASS if disclosed parent and subsidiary relations have
+sources and effective dates.
+
+OWNERSHIP: PASS if ownership is distinguished from voting, control,
+management, and economic benefit.
+
+CONTEXT SWITCHING: PASS if a discovered entity generates relevant
+questions across multiple independent contexts.
+
+RECURSIVE DISCOVERY: PASS if material newly discovered entities can
+enter another research cycle.
+
+DEPENDENCY: PASS if documented service, asset, technology, financial, or
+operational dependencies are represented separately from ownership.
+
+CROSS-VERIFICATION: PASS if important claims are checked against
+appropriate sources and conflicts are preserved.
+
+TEMPORAL: PASS if current and historical relationships are not
+conflated.
+
+PROVENANCE: PASS if each material relationship can be traced to a
+source.
+
+UNKNOWN HANDLING: PASS if missing or inaccessible information is not
+fabricated.
+
+DEPTH: PASS only when the report states what has been investigated, what
+remains unresolved, and why each branch was stopped.
+
+======================================================================
+18. FINAL ARCHITECTURAL RULE
+======================================================================
+
+A question is not the end of research. An answer is not the end of
+research. A discovered entity is not the end of research. A corporate
+parent is not the end of research. A subsidiary tree is not the end of
+research. A regulatory filing is not the end of research.
+
+Every answer becomes evidence. Every evidence item may reveal a
+relationship. Every material relationship may reveal another entity.
+Every new entity may reveal another context. Every unresolved gap may
+generate another question.
+
+CORE LOOP:
+
+RECOGNITION -> CONTEXTUALIZATION -> QUESTION GENERATION -> EVIDENCE
+RETRIEVAL -> ENTITY EXTRACTION -> CROSS-VERIFICATION -> RELATIONSHIP
+GRAPH UPDATE -> RECURSIVE DISCOVERY -> DEPTH ASSESSMENT
+
+CORE PRINCIPLE:
+
+EVERY DISCOVERED STRUCTURE IS ANOTHER SURFACE. NEVER MISTAKE A REVEALED
+LAYER FOR THE DEEPEST LAYER.
+
+END OF DOCUMENT THH-CXIE-v2.0
